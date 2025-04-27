@@ -75,6 +75,9 @@
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-24" value="3D展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-29" value="进行充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
