@@ -10,8 +10,11 @@
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-2" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-YtvXo-vRP-ERrsG4YB5-4" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="170" width="80" height="40" as="geometry" />
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-4" value="选择限制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-5" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
