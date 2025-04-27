@@ -52,6 +52,9 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-15" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="320" width="80" height="40" as="geometry" />
         </mxCell>
@@ -79,8 +82,14 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-24" value="新增限制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="400" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSx1G75JGZARqi3wX1gf-25" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSx1G75JGZARqi3wX1gf-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-25" target="YSx1G75JGZARqi3wX1gf-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-25" value="用户充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="760" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-32" value="用户充值" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="770" y="250" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
