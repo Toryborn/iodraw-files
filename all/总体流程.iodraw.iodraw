@@ -49,10 +49,10 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-14" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSx1G75JGZARqi3wX1gf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-18">
+        <mxCell id="YSx1G75JGZARqi3wX1gf-22" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSx1G75JGZARqi3wX1gf-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-25">
+        <mxCell id="YSx1G75JGZARqi3wX1gf-30" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-15" target="YSx1G75JGZARqi3wX1gf-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-15" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -61,7 +61,7 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-21" value="Y" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-16" target="YSx1G75JGZARqi3wX1gf-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="YSx1G75JGZARqi3wX1gf-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-16" target="YSx1G75JGZARqi3wX1gf-24">
+        <mxCell id="YSx1G75JGZARqi3wX1gf-28" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-16" target="YSx1G75JGZARqi3wX1gf-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-16" value="选择限制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
