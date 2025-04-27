@@ -42,7 +42,7 @@
             <mxPoint x="2" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OyS0GGkyfRkDsIkvcwOF-3" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;货物名称&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OyS0GGkyfRkDsIkvcwOF-3" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;限制名称&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-9" target="OyS0GGkyfRkDsIkvcwOF-2" edge="1">
@@ -151,7 +151,7 @@
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-77" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-46" target="OyS0GGkyfRkDsIkvcwOF-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OyS0GGkyfRkDsIkvcwOF-46" value="删除货物" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OyS0GGkyfRkDsIkvcwOF-46" value="删除限制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="360" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-52" target="OyS0GGkyfRkDsIkvcwOF-53" edge="1">
