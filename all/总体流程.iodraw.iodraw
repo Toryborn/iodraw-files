@@ -100,6 +100,9 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-36" value="3D展示" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1000" y="400" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-37" value="3D展示" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
