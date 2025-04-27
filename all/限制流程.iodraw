@@ -26,10 +26,10 @@
             <mxPoint y="-5" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OyS0GGkyfRkDsIkvcwOF-2" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;货物ID&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OyS0GGkyfRkDsIkvcwOF-2" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;限制ID&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="OyS0GGkyfRkDsIkvcwOF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-3" edge="1">
+        <mxCell id="OyS0GGkyfRkDsIkvcwOF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-3" target="OyS0GGkyfRkDsIkvcwOF-34" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="260" y="480" as="targetPoint" />
           </mxGeometry>
