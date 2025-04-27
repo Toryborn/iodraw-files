@@ -13,7 +13,7 @@
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-2" target="-YtvXo-vRP-ERrsG4YB5-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-YtvXo-vRP-ERrsG4YB5-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-2" target="-YtvXo-vRP-ERrsG4YB5-10">
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-14" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-2" target="-YtvXo-vRP-ERrsG4YB5-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-2" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
