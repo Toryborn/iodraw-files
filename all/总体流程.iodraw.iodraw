@@ -67,6 +67,9 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-16" value="选择限制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="YSx1G75JGZARqi3wX1gf-18" target="YSx1G75JGZARqi3wX1gf-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-18" value="装箱计算" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="880" y="320" width="80" height="40" as="geometry" />
         </mxCell>
@@ -89,7 +92,10 @@
           <mxGeometry x="760" y="240" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-32" value="进行计算" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="320" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
