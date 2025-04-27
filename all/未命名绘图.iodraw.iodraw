@@ -28,6 +28,9 @@
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-4" value="选择限制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-5" target="-YtvXo-vRP-ERrsG4YB5-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-5" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
@@ -48,6 +51,12 @@
         </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-20" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="160" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
