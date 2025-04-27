@@ -4,11 +4,20 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-1" target="-YtvXo-vRP-ERrsG4YB5-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="40" y="160" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-2" target="-YtvXo-vRP-ERrsG4YB5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-2" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-YtvXo-vRP-ERrsG4YB5-4" target="-YtvXo-vRP-ERrsG4YB5-5">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-4" value="选择限制" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="80" height="40" as="geometry" />
@@ -16,7 +25,7 @@
         <mxCell id="-YtvXo-vRP-ERrsG4YB5-5" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="160" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="-YtvXo-vRP-ERrsG4YB5-6" value="拥有权限" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-YtvXo-vRP-ERrsG4YB5-6" value="3D查看" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="240" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
