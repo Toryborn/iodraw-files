@@ -37,11 +37,11 @@
         <mxCell id="YSx1G75JGZARqi3wX1gf-10" value="登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="320" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="YSx1G75JGZARqi3wX1gf-14" value="登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="YSx1G75JGZARqi3wX1gf-14" value="选择货物" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-15" value="登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="630" y="450" width="80" height="40" as="geometry" />
+          <mxGeometry x="760" y="320" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-16" value="登录成功" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="640" y="320" width="80" height="40" as="geometry" />
