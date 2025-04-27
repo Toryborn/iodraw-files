@@ -27,7 +27,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-2" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;限制ID&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="200" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=15;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-3" target="OyS0GGkyfRkDsIkvcwOF-34" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -43,7 +43,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-3" value="是否填写&lt;div style=&quot;font-size: 15px;&quot;&gt;限制名称&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="200" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="200" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-9" target="OyS0GGkyfRkDsIkvcwOF-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -106,10 +106,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-22" value="保存要查询的ID" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="40" y="280" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="320" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-26" value="保存要查询的名称" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="40" y="380" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="420" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-34" target="OyS0GGkyfRkDsIkvcwOF-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -214,7 +214,7 @@
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-79" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="OyS0GGkyfRkDsIkvcwOF-67" target="OyS0GGkyfRkDsIkvcwOF-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="OyS0GGkyfRkDsIkvcwOF-67" value="修改货物信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
+        <mxCell id="OyS0GGkyfRkDsIkvcwOF-67" value="修改限制信息" style="rounded=0;whiteSpace=wrap;html=1;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="OyS0GGkyfRkDsIkvcwOF-75" value="结束" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
