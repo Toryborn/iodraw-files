@@ -95,7 +95,10 @@
           <mxGeometry x="880" y="400" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="YSx1G75JGZARqi3wX1gf-33" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1100" y="400" width="80" height="40" as="geometry" />
+          <mxGeometry x="1000" y="240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YSx1G75JGZARqi3wX1gf-36" value="3D展示" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="400" width="80" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
